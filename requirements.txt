@@ -1,0 +1,5 @@
+yt-dlp
+SpeechRecognition
+pydub
+openai
+tiktoken
