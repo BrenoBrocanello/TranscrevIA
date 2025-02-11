@@ -1,3 +1,4 @@
+Descrição
 Este repositório contém um script Python que automatiza o processo de download, transcrição e resumo de vídeos do YouTube. O script utiliza as bibliotecas yt-dlp para baixar o áudio, speech_recognition para transcrever o áudio para texto, e a API da OpenAI (GPT-4) para melhorar a transcrição ou gerar um resumo do conteúdo. O fluxo completo permite baixar um vídeo do YouTube, transcrever seu áudio para texto e, em seguida, escolher entre obter a transcrição corrigida ou um resumo conciso do conteúdo.
 
 Funcionalidades
